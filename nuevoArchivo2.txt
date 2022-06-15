@@ -1,0 +1,2 @@
+este es el segundo archivo para clase de git
+ahora lo modifico para ver los cambios de STAGE
